@@ -23,4 +23,5 @@
 
 ---
 
+## ⚡ Fun Fact
 I enjoy breaking things just to understand how they work... then rebuilding them better.
