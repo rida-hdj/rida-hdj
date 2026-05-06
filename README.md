@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Rida
 
-<!--
-**rida-hdj/rida-hdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programming, Linux, and low-level concepts
+🧠 I like understanding how things *really* work, not just using them
+⚡ Minimalist mindset, performance-focused
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+* ⚙️ Tools & Environments:
+  `Neovim` • `Linux` • `Git` • `Docker`
+
+* 🧪 Interests:
+  Systems programming • Open Source • Customization • Performance
+
+---
+
+## 🔥 Current Focus
+
+* 🦀 Learning Rust
+* 📱 Exploring Android (AOSP)
+
+---
+
+I enjoy breaking things just to understand how they work... then rebuilding them better.
