@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rida
 
-💻 Programming, Linux, and low-level concepts
-🧠 I like understanding how things *really* work, not just using them
-⚡ Minimalist mindset, performance-focused
+* 💻 Programming, Linux, and low-level concepts
+* 🧠 I like understanding how things *really* work, not just using them
+* ⚡ Minimalist mindset, performance-focused
 
 ---
 
