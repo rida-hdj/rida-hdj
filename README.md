@@ -3,7 +3,8 @@
 * 💻 Programming, Linux, and low-level concepts
 * 🧠 I like understanding how things *really* work, not just using them
 * ⚡ Minimalist mindset, performance-focused
-
+---
+🌐 Portfolio: https://rida-hdj.github.io/portfolio/
 ---
 
 ## 🧰 Tech Stack
